@@ -37,6 +37,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES := \
     sensors.mahimahi \
     lights.mahimahi \
+    gralloc.qsd8k \
     librs_jni
 
 # we have enough storage space to hold precise GC data
